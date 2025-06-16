@@ -37,42 +37,12 @@ Run the Streamlit app locally and open the provided URL in a web browser to inte
 
 12. Test Questions
 
-Sadness – "I tried so hard, but it still wasn't enough."
-
-Sadness – "I feel like everything is falling apart."
-
-Joy – "This is the best day of my life!"
-
-Joy – "I can’t stop smiling today."
-
-Love – "Being with you makes everything better."
-
-Love – "I cherish every moment we spend together."
-
-Anger – "I’m so done with your excuses!"
-
-Anger – "You crossed the line this time."
-
-Fear – "What if something goes terribly wrong?"
-
-Fear – "I can’t breathe when I think about it."
-
-Surprise – "I didn’t expect that at all!"
-
-Surprise – "Wow, you completely caught me off guard!"
-
-Disgust – "That comment was absolutely vile."
-
-Disgust – "I can’t believe people actually enjoy that."
-
-Neutral – "It was just an ordinary day, nothing special."
-
-Neutral – "I don’t really have an opinion on that."
-
-Shame – "I wish I could undo what I did."
-
-Shame – "I feel horrible about the way I acted."
-
-Joy – "Everything is finally coming together!"
-
-Fear – "I'm afraid they’ll find out the truth."
+Sadness – "I tried so hard, but it still wasn't enough."-----
+Joy – "This is the best day of my life!"--------
+Joy – "I can’t stop smiling today."------
+Joy – "Being with you makes everything better."-----
+Fear – "I can’t breathe when I think about it."------
+Anger – "That comment was absolutely vile."---
+Shame – "I feel horrible about the way I acted."****
+Joy – "Everything is finally coming together!"-----
+Fear – "I'm afraid they’ll find out the truth."----
