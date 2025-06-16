@@ -38,11 +38,20 @@ Run the Streamlit app locally and open the provided URL in a web browser to inte
 12. Test Questions
 
 Sadness – "I tried so hard, but it still wasn't enough."-----
+
 Joy – "This is the best day of my life!"--------
+
 Joy – "I can’t stop smiling today."------
+
 Joy – "Being with you makes everything better."-----
+
 Fear – "I can’t breathe when I think about it."------
+
 Anger – "That comment was absolutely vile."---
+
 Shame – "I feel horrible about the way I acted."****
+
 Joy – "Everything is finally coming together!"-----
+
 Fear – "I'm afraid they’ll find out the truth."----
+
